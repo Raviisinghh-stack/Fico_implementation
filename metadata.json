@@ -1,0 +1,5 @@
+{
+  "name": "SAP FICO Consultant Assistant",
+  "description": "An expert guide for SAP FICO configuration steps, concepts, and T-Codes, powered by Gemini. Provides step-by-step implementation guidance, quick concept explanations, and can analyze FSD documents to propose solutions.",
+  "requestFramePermissions": []
+}
